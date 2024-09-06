@@ -10,6 +10,7 @@ This repository contains the analysis and dashboards created as part of my inter
 
 **Task 3:** Employee Salaries in Tech
 
+
 **Task 1: Unemployment in India**
 
 **Objective:** Perform an analysis of the unemployment rate in India over time, based on available datasets.
@@ -21,6 +22,7 @@ This repository contains the analysis and dashboards created as part of my inter
 **Analysis:** Analyzed trends and key factors influencing unemployment in India.
 
 **Deliverable:** A Power BI dashboard highlighting the unemployment trends across different regions, frequencies, and years.
+
 
 **Task 2: Market Campaign Analysis**
 
@@ -34,6 +36,7 @@ This repository contains the analysis and dashboards created as part of my inter
 
 **Deliverable:** A Power BI dashboard visualizing key insights like customer spending patterns, campaign success, and demographic distribution.
 
+
 **Task 3: Employee Salaries in Tech**
 
 **Objective:** Analyze salary trends in the tech industry based on factors like company location, size, job type, and experience level.
@@ -45,5 +48,6 @@ This repository contains the analysis and dashboards created as part of my inter
 **Analysis:** Explored correlations between salary, company attributes, and employee experience levels.
 
 **Deliverable:** A Power BI dashboard that provides insights into how salaries vary by company size, location, and tech roles.
+
 
 The tasks in this repository have been numbered based on the order of completion during the internship. Task 1 corresponds to the analysis of unemployment in India. Task 2, referred to as Task 3 in the official task PDF provided by the internship, involves market campaign analysis. Task 3, referred to as Task 5 in the PDF, focuses on employee salaries in the tech industry.
